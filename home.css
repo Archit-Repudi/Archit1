@@ -1,0 +1,48 @@
+body{
+  background-color: #011627;
+  color: white;
+  text-align: center;
+  border: 150px solid #2EC486;
+  border-bottom: 100px solid #2EC486;
+  border-top: 0px;
+  margin: 0px;
+  padding: 100px;
+  padding-top: 10px;
+  font-size: large;
+}
+.quo{
+  text-align: left;
+  line-height: 50px;
+}
+blockquote{
+
+  font-family: 'Comic Sans MS';
+}
+h1{
+  background-color: #34989C;
+}
+nav{
+  background-color: #02A28F;
+  overflow: hidden;
+}
+
+nav a{
+  float: left;
+  text-align: center;
+  padding: 17px;
+  font-size: 25px;
+  background-color: #02A28F;
+  color: #3A0D33;
+  font-style: oblique;
+  font-weight: 100;
+}
+nav a.current{
+  background-color: white;
+}
+table ,th ,td{
+  border: 8px solid Grey;
+}
+ol li{
+  margin: 30px 30px 30px 30px;
+
+}
